@@ -6,10 +6,10 @@ This repository contains an implementation of a Generative Adversarial Network (
 <p>
   <table>
     <tr>
-      <td><img src="" width="200px"</td>
-      <td><img src="" width="200px"</td>
-      <td><img src="" width="200px"</td>
-      <td><img src="" width="200px"</td>
+      <td><img src="img1.png" width="200px"</td>
+      <td><img src="img2.png" width="200px"</td>
+      <td><img src="img3.png" width="200px"</td>
+      <td><img src="img4.png" width="200px"</td>
     </tr>
   </table>
 </p>
